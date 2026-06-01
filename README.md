@@ -33,7 +33,7 @@ print(Y_pred)
 
 ```
 ## Output
-<img width="1899" height="810" alt="image" src="https://github.com/user-attachments/assets/bb485cd3-a9c5-4813-9c3b-92a35bc1ecea" />
+<img width="1048" height="435" alt="Screenshot 2026-06-01 131737" src="https://github.com/user-attachments/assets/38cb7edb-5f8d-4284-aab0-920d3e741852" />
 
 
 ## Result
